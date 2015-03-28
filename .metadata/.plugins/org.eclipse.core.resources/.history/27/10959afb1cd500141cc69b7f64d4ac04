@@ -1,0 +1,26 @@
+package com.sc.util;
+
+import java.sql.*;
+
+/**
+ * Created by zhuke on 2015/3/26.
+ */
+public class LoginDB {
+
+    public static int login(String user_id, String user_pwd) {
+        try {
+           DBUtil.getConn()
+            pstm.setString(1, user_id);
+            pstm.setString(2, user_pwd);
+            ResultSet rs = pstm.executeQuery();
+            if (rs.next()) {
+                return rs.getInt(1);
+            }
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return 0;
+    }
+}

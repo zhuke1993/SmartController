@@ -1,0 +1,13 @@
+package com.sc.util;
+
+import java.sql.Connection;
+
+public class DBUtil {
+	public Connection getConn() {
+		
+		Class.forName("com.mysql.jdbc.Driver");
+		
+		
+		return null;
+	}
+}

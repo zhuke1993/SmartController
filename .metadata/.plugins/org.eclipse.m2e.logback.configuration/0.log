@@ -1,0 +1,2 @@
+2015-03-28 15:24:31,738 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/mchange/c3p0/0.9.5/c3p0-0.9.5-sources.jar
+2015-03-28 15:24:36,020 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/mchange/c3p0/0.9.5/c3p0-0.9.5-sources.jar

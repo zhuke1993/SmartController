@@ -1,0 +1,71 @@
+package com.sc.util;
+
+import java.sql.Connection;
+
+import com.mchange.v2.c3p0.DataSources;
+
+public class DBUtil {
+	public static DataSource setupDataSource() {
+        String connectURL = "jdbc:mysql://XXXX:3306/zz_test";
+        BasicDataSource ds = new BasicDataSource();
+        ds.setDriverClassName("org.gjt.mm.mysql.Driver");
+        ds.setUrl(connectURL);
+        ds.setUsername("XXXX");
+        ds.setPassword("XXXX");
+        return ds;
+    }
+    // close datasource
+    public static void shutdownDataSource(DataSource ds) throws SQLException {
+        BasicDataSource bds = (BasicDataSource) ds;
+        bds.close();
+    }
+ 
+    //main function
+    public static void main(String[] args) {
+        //  DataSource datasource = setupDataSource(args[0]);
+        DataSource datasource = setupDataSource();
+        Connection conn = null;
+        Statement stmt = null;
+        ResultSet rs = null;
+        String sql = null;
+        try {
+            System.out.println("test");
+            conn = datasource.getConnection();
+            System.out.println("test2");
+            stmt = conn.createStatement();
+            sql = "select * from book";
+            rs = stmt.executeQuery(sql);
+            System.out.println("Results:");
+            int numcols = rs.getMetaData().getColumnCount();
+            System.out.println("numcols " + numcols);
+            while (rs.next()) {
+                // for(int i=1;i<=numcols;i++){
+                System.out.println(" " + rs.getInt(1));
+                System.out.println(" " + rs.getString(2));
+                System.out.println(" " + rs.getString(3));
+                //}
+            }
+        } catch (SQLException e) {
+            System.out.println("connect wrong!");
+            e.printStackTrace();
+        } finally {
+            try {
+                rs.close();
+            } catch (SQLException e) {
+                System.out.println("rs close error");
+                e.printStackTrace();
+            }
+            try {
+                stmt.close();
+            } catch (SQLException e) {
+                System.out.println("stmt close error");
+                e.printStackTrace();
+            }
+            try {
+                conn.close();
+            } catch (SQLException e) {
+                System.out.println("conn close error");
+                e.printStackTrace();
+            }
+        }
+    }

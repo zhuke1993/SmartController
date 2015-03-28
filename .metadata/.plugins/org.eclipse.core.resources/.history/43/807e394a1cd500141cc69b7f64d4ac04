@@ -1,0 +1,11 @@
+package com.sc.util;
+
+import java.sql.Connection;
+
+import com.mchange.v2.c3p0.DataSources;
+
+public class DBUtil {
+	public Connection getConn() {
+		return null;
+	}
+}

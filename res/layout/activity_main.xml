@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main" 
+    android:layout_gravity="top"
+    android:orientation="vertical"
+    android:background="#2e3638">
+
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:background="#35363a">
+        <ImageView 
+            android:id="@+id/top_bar_bac_img"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+        <TextView 
+            android:id="@+id/top_bar_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="SmartController"
+            android:textSize="20sp"
+            android:textColor="#ffffff"/>
+        <Switch
+            android:id="@+id/switch_run"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textOn="运行"
+            android:textOff="停止"/>
+
+        <Button
+            android:id="@+id/but_searchbloothdevice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:text="连接蓝牙" />
+
+    </RelativeLayout>
+    
+    <GridView 
+        android:id="@+id/furniture_grid"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="10pt"
+        android:verticalSpacing="10pt"
+        android:numColumns="3"
+        android:gravity="center">
+    </GridView>
+
+</LinearLayout>

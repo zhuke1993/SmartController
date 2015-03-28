@@ -1,0 +1,125 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (javaClasses.cpp:129), pid=6012, tid=5132
+#  fatal error: Invalid layout of preloaded class
+#
+# JRE version: 7.0_21-b11
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (23.21-b01 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000002770800):  JavaThread "Unknown thread" [_thread_in_vm, id=5132, stack(0x0000000002670000,0x0000000002770000)]
+
+Stack: [0x0000000002670000,0x0000000002770000]
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0000000002770800 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=5132, stack(0x0000000002670000,0x0000000002770000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (10 events):
+Event: 0.013 loading class 0x00000000027b9320 done
+Event: 0.013 loading class 0x000000000277a670 done
+Event: 0.013 loading class 0x000000000277ad90
+Event: 0.013 loading class 0x000000000b65c990
+Event: 0.013 loading class 0x000000000b65c990 done
+Event: 0.013 loading class 0x000000000b65ca10
+Event: 0.013 loading class 0x000000000b65ca10 done
+Event: 0.013 loading class 0x000000000b65e190
+Event: 0.013 loading class 0x000000000b65e190 done
+Event: 0.013 loading class 0x000000000277ad90 done
+
+
+Dynamic libraries:
+0x00007ff7c57f0000 - 0x00007ff7c5823000 	C:\Program Files\Java\jdk1.7.0_21\bin\javaw.exe
+0x00007ffbaf0b0000 - 0x00007ffbaf25c000 	C:\Windows\SYSTEM32\ntdll.dll
+0x00007ffbad1a0000 - 0x00007ffbad2da000 	C:\Windows\system32\KERNEL32.DLL
+0x00007ffbac3c0000 - 0x00007ffbac4cf000 	C:\Windows\system32\KERNELBASE.dll
+0x00007ffbaaed0000 - 0x00007ffbaaf58000 	C:\Windows\system32\apphelp.dll
+0x00007ffba9cd0000 - 0x00007ffba9d1f000 	C:\Windows\AppPatch\AppPatch64\AcGenral.DLL
+0x00007ffbae970000 - 0x00007ffbaea17000 	C:\Windows\system32\msvcrt.dll
+0x00007ffbac100000 - 0x00007ffbac12b000 	C:\Windows\SYSTEM32\SspiCli.dll
+0x00007ffbad130000 - 0x00007ffbad181000 	C:\Windows\system32\SHLWAPI.dll
+0x00007ffbac800000 - 0x00007ffbac971000 	C:\Windows\system32\USER32.dll
+0x00007ffbaeb80000 - 0x00007ffbaecf8000 	C:\Windows\system32\ole32.dll
+0x00007ffbad2e0000 - 0x00007ffbae7f8000 	C:\Windows\system32\SHELL32.dll
+0x00007ffbab8b0000 - 0x00007ffbab8ce000 	C:\Windows\SYSTEM32\USERENV.dll
+0x00007ffbacea0000 - 0x00007ffbacf45000 	C:\Windows\system32\ADVAPI32.dll
+0x00007ffba6200000 - 0x00007ffba621b000 	C:\Windows\SYSTEM32\MPR.dll
+0x00007ffbac980000 - 0x00007ffbacab7000 	C:\Windows\system32\RPCRT4.dll
+0x00007ffbacc60000 - 0x00007ffbaccb7000 	C:\Windows\SYSTEM32\sechost.dll
+0x00007ffbaccc0000 - 0x00007ffbace96000 	C:\Windows\SYSTEM32\combase.dll
+0x00007ffbaea30000 - 0x00007ffbaeb74000 	C:\Windows\system32\GDI32.dll
+0x00007ffbac2f0000 - 0x00007ffbac304000 	C:\Windows\SYSTEM32\profapi.dll
+0x00007ffbaa880000 - 0x00007ffbaa932000 	C:\Windows\SYSTEM32\SHCORE.dll
+0x00007ffbaee10000 - 0x00007ffbaee44000 	C:\Windows\system32\IMM32.DLL
+0x00007ffbae800000 - 0x00007ffbae951000 	C:\Windows\system32\MSCTF.dll
+0x00007ffbac2b0000 - 0x00007ffbac2df000 	C:\Windows\system32\nvinitx.dll
+0x000000000f000000 - 0x000000000f006000 	C:\Program Files\NVIDIA Corporation\CoProcManager\detoured.dll
+0x00007ffbaa2f0000 - 0x00007ffbaa34f000 	C:\Program Files\NVIDIA Corporation\CoProcManager\nvd3d9wrapx.dll
+0x00007ffbacf50000 - 0x00007ffbad124000 	C:\Windows\system32\SETUPAPI.dll
+0x00007ffbac760000 - 0x00007ffbac7aa000 	C:\Windows\system32\CFGMGR32.dll
+0x00007ffba9e40000 - 0x00007ffba9e86000 	C:\Program Files\NVIDIA Corporation\CoProcManager\nvdxgiwrapx.dll
+0x00007ffbaa450000 - 0x00007ffbaa6aa000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9600.17031_none_6242a4b3ecbb55a1\COMCTL32.dll
+0x0000000051170000 - 0x0000000051241000 	C:\Program Files\Java\jdk1.7.0_21\jre\bin\msvcr100.dll
+0x0000000051330000 - 0x0000000051a51000 	C:\Program Files\Java\jdk1.7.0_21\jre\bin\server\jvm.dll
+0x00007ffbaa070000 - 0x00007ffbaa079000 	C:\Windows\SYSTEM32\WSOCK32.dll
+0x00007ffba9210000 - 0x00007ffba922f000 	C:\Windows\SYSTEM32\WINMM.dll
+0x00007ffbad190000 - 0x00007ffbad197000 	C:\Windows\system32\PSAPI.DLL
+0x00007ffbaed00000 - 0x00007ffbaed58000 	C:\Windows\system32\WS2_32.dll
+0x00007ffba8c90000 - 0x00007ffba8cba000 	C:\Windows\SYSTEM32\WINMMBASE.dll
+0x00007ffbae960000 - 0x00007ffbae969000 	C:\Windows\system32\NSI.dll
+0x00007ffbab150000 - 0x00007ffbab176000 	C:\Windows\SYSTEM32\DEVOBJ.dll
+0x0000000051320000 - 0x000000005132f000 	C:\Program Files\Java\jdk1.7.0_21\jre\bin\verify.dll
+0x00000000512f0000 - 0x0000000051318000 	C:\Program Files\Java\jdk1.7.0_21\jre\bin\java.dll
+0x00000000512d0000 - 0x00000000512e5000 	C:\Program Files\Java\jdk1.7.0_21\jre\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dfile.encoding=GBK -Xbootclasspath:D:\Android\android\sdk\platforms\android-18\android.jar 
+java_command: com.smartcontroller.util.HTTPUtils
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_21
+PATH=C:/Program Files/Java/jdk1.7.0_21/bin/../jre/bin/server;C:/Program Files/Java/jdk1.7.0_21/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_21/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.7.0_21\bin;C:\app\ZHUZHU\product\11.2.0\dbhome_1\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\VisualSVN Server\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.3 & MySQL Utilities 1.5.3 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.3 & MySQL Utilities 1.5.3 1.5\Doctrine extensions for PHP\;D:\Android\android-studio\sdk\tools;D:\Android\android-studio\sdk\platform-tools;C:\Program Files (x86)\QuickTime\QTSystem\;D:\Users\Administrator\.android\avd;C:\Program Files (x86)\Apache Software Foundation\apache-ant-1.9.4\bin;C:\Program Files (x86)\Apache Software Foundation\apache-maven-3.3.1\bin;D:\Android\android\eclipse;
+USERNAME=Administrator
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 8 , 64 bit Build 9200 
+
+CPU:total 4 (2 cores per cpu, 2 threads per core) family 6 model 58 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, ht, tsc, tscinvbit, tscinv
+
+Memory: 4k page, physical 8271340k(4084704k free), swap 9188844k(3518356k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (23.21-b01) for windows-amd64 JRE (1.7.0_21-b11), built on Apr  4 2013 08:11:28 by "java_re" with unknown MS VC++:1600
+
+time: Sat Mar 28 20:30:18 2015
+elapsed time: 0 seconds
+
