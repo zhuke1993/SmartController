@@ -1,10 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51840417-277c-46b2-bbf5-2fccb0636107" name="Default" comment="" />
+    <list default="true" id="51840417-277c-46b2-bbf5-2fccb0636107" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\12\1097a6e61ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\12\804b8d2d1dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\13\003471da41d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\14\c0145e531dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\15\10559d1149d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\15\d0042e661cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\16\6045426849d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\17\b0114d4c1bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\19\00dd92d41dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\19\10f617641cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\19\70423d721ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\1a\003b621749d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\1b\8077810449d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\1c\10008fdb41d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\1e\b0ddd7591bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\1f\5028ab7a1ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\1f\60118de71cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\21\30a1800e48d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\21\b0e35b1549d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\24\30f45cdd3fd50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\24\80e9965142d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\25\00f7970249d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\26\103f6a5242d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\27\10959afb1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\28\90c0f04a1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\29\3090a7571bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\29\505c2f321dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\2a\f08fb6dc1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\2c\801a88091dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\2e\a0164d7624d500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\2f\f06a54f841d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\32\d0bd5f2329d500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\35\7054911d49d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\37\c02b94381dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\38\20e4c4eb1bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\3a\e0496b4749d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\3b\60937b171dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\3b\e0330fed1ad500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\3c\10bc715529d500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\3d\00fcb45146d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\3d\90243d0a1bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\3d\b0c23a7224d500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\3f\80bcf34c1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\41\d0b0a2c31bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\43\807e394a1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\45\20bed23648d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\45\90299e0c1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\45\c00453fb1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\46\009b505b1bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\46\f0dcc4db1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\49\d012df7241d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\49\e0ed26551dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\4e\e06590ca48d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\4f\b0649ae11cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\5\7021b0911bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\5a\90a4813229d500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\5f\1040ede548d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\60\604b12de48d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\60\6085f84c46d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\60\60d08a3f1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\60\805669ea41d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\64\00f65ffc1ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\64\805449f648d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\65\4022eeae1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\66\d17d11ed1ad500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\6\9095a91447d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\6e\c0466ce91ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\6f\b0c44fc848d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\70\30808af61cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\76\5056f4411cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\79\005cf33a1ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\7a\40e9bcd71cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\80\5005300d48d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\85\80640d7541d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\85\b015be401bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\85\e09c732821d500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\8a\40b74d0540d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\90\c0166bbe1bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\91\90953f0a1bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\92\80b7764140d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\92\e005465e1ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\93\f0833bd61dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\94\40820cf93fd50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\95\103d899848d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\95\90e29e2e1dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\96\10e706481cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\98\80f5e04449d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\98\91299e0c1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\98\b05e5e001dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\9\10bfcf6648d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\9a\c0d52f5646d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\9e\6090d63c1dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\9f\50946a6549d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\a2\20817c8848d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\a2\60e24d0b49d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\a3\f0783e791ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\a4\10b1eb4d1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\a6\401ada6e1ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\a8\e0f003f11ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\a\20a0b25f1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\ab\d00ac2561ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\ad\906a7d1449d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\ae\703151421ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\ae\707c47d51cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\b0\e0ff551b48d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\b7\b04cef2e42d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\ba\d0f3e72621d500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\bb\30e1e7811ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\bf\d07d11ed1ad500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\c4\20d7519b41d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\c4\80407ef541d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\c4\b04c16f63fd50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\c5\30004d5e1dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\c6\f069225c1bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\c7\c0c19dd91dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\cc\506ffe501cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d4\f008d3861ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d5\20fbdbe41cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d5\30810f7c48d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d6\407c66d11dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d8\70c196ee1ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d8\90b318da1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d8\90c248531ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d9\80b6ce6e48d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\d\300b5c351dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\da\109d8f4148d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\db\204ebd3c40d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\dc\401036651cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\de\50b85d0448d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\e0\10a8554d1bd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\e2\006541f241d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\e5\f061d05346d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\e6\e0c20ced1ad500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\e8\b069de7841d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\e\d06f57a548d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\eb\607559df1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\ee\b07b863129d500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\f1\6001c56f1cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\f3\30a12d861ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\f5\f0b47e431ed500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\f7\5022614648d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\f\807f9ff11cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\f\e09b40c91dd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\fa\20c9ea4a48d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\fa\70a0bef141d50014112eaf4f4c6a4f9f" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.history\fb\d0882cb61cd500141cc69b7f64d4ac04" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.indexes\b3\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.indexes\5b\a8\85\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.indexes\5b\a8\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.indexes\5b\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.indexes\af\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.indexes\e4\81\50\2\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.indexes\e4\81\50\45\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.indexes\e4\81\50\69\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.indexes\e4\81\50\92\history.index" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.projects\SmartControllerServer\.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.root\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\.root\1.tree" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.core.resources\1.snap" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\4.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\5.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\6.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\7.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\8.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\9.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.m2e.core\nexus\26522e0d83a422eed93329ece7565cfc\segments_3" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.m2e.core\nexus\830bc118332e77292949ed1e6d2fabe0\segments_3" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.m2e.core\nexus\83f420d25e79eb5ac18fc6a13fe1206b\segments_5" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.team.cvs.core\.running" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\SmartControllerServer\WEB-INF\classes\com\sc\login\Login.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\SmartControllerServer\WEB-INF\classes\com\sc\login\UpdateActions.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.contributions.2" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.contributors.2" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.extraData.2" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.mainData.2" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.manager\.fileTable.8" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.manager\.fileTable.9" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.manager\.fileTableLock" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.namespaces.2" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.orphans.2" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\.rcache\.table.2" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\org.jboss.tools.central.discovery.earlyaccess_4.2.2.Final_v20150114_0421_B436.jar_2619809078714542732.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\org.jboss.tools.central.discovery.integration_stack.earlyaccess_4.2.0.Final_v20150219_1432_B334.jar_9184807931943877002.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427527169295\org.jboss.tools.central.discovery_4.2.2.Final_v20150114_0421_B436.jar_8888995053850044081.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.contributions.1" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.contributors.1" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.extraData.1" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.mainData.1" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.manager\.fileTable.7" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.manager\.fileTable.8" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.manager\.fileTableLock" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.namespaces.1" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.orphans.1" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\.rcache\.table.1" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\org.jboss.tools.central.discovery.earlyaccess_4.2.2.Final_v20150114_0421_B436.jar_2731224813795878883.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\org.jboss.tools.central.discovery.integration_stack.earlyaccess_4.2.0.Final_v20150219_1432_B334.jar_3988955214993177407.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.central\proxyWizards\1427542890373\org.jboss.tools.central.discovery_4.2.2.Final_v20150114_0421_B436.jar_2375639295703530981.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\.metadata\.plugins\org.jboss.tools.foundation.core\ECF_REMOTE_CACHE\http___download_jboss_org_jbosstools_configuration_ide_config_properties-6024076962359847459.tmp" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\SmartControllerServer\src\com\sc\login\Login.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Administrator\Desktop\backup\SmartController\SmartControllerServer\src\com\sc\login\UpdateActions.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/SmartControllerServer/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/SmartControllerServer/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1299691411.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1299691411.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/bluetooth/BloothServer.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/bluetooth/BloothServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/util/Conf.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/util/Conf.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SmartControllerServer/WEB-INF/classes/com/sc/util/DBUtil.class" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SmartControllerServer/WEB-INF/classes/com/sc/util/DBUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/util/DataFormat.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/util/DataFormat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/login/Login$1.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/login/Login$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/login/Login$2.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/login/Login$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/login/Login.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/login/Login.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SmartControllerServer/WEB-INF/classes/com/sc/servlet/LoginServlet.class" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SmartControllerServer/WEB-INF/classes/com/sc/servlet/LoginServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$id.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$layout.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$menu.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$raw.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$string.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$style.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/core/RecordData$1.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/core/RecordData$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/smartcontroller/core/RecordData.class" afterPath="$PROJECT_DIR$/bin/classes/com/smartcontroller/core/RecordData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SmartController.apk" afterPath="$PROJECT_DIR$/bin/SmartController.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="$PROJECT_DIR$/bin/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="$PROJECT_DIR$/bin/resources.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/26522e0d83a422eed93329ece7565cfc/segments.gen" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/26522e0d83a422eed93329ece7565cfc/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/83f420d25e79eb5ac18fc6a13fe1206b/segments.gen" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/83f420d25e79eb5ac18fc6a13fe1206b/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.log" afterPath="$PROJECT_DIR$/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/0548c0f2-5c1f-3561-abbf-bc67a1ee9445" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/0548c0f2-5c1f-3561-abbf-bc67a1ee9445" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/0efef557-fe6f-387a-b89a-790aff57fed2" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/0efef557-fe6f-387a-b89a-790aff57fed2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/35c9f0e9-8245-32ee-af4b-685906cc338a" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/35c9f0e9-8245-32ee-af4b-685906cc338a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/78f81bf1-f92c-3318-8b3b-bf4a23eb9c46" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/78f81bf1-f92c-3318-8b3b-bf4a23eb9c46" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BloothServer.java" afterPath="$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BloothServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/smartcontroller/BuildConfig.java" afterPath="$PROJECT_DIR$/gen/com/smartcontroller/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/smartcontroller/util/Conf.java" afterPath="$PROJECT_DIR$/src/com/smartcontroller/util/Conf.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/DBUtil.java" afterPath="$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/DBUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/smartcontroller/util/DataFormat.java" afterPath="$PROJECT_DIR$/src/com/smartcontroller/util/DataFormat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/smartcontroller/login/Login.java" afterPath="$PROJECT_DIR$/src/com/smartcontroller/login/Login.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SmartControllerServer/src/com/sc/servlet/LoginServlet.java" afterPath="$PROJECT_DIR$/SmartControllerServer/src/com/sc/servlet/LoginServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/smartcontroller/R.java" afterPath="$PROJECT_DIR$/gen/com/smartcontroller/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/smartcontroller/core/RecordData.java" afterPath="$PROJECT_DIR$/src/com/smartcontroller/core/RecordData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SmartController.iml" afterPath="$PROJECT_DIR$/SmartController.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/smartcontroller/util/StringUtil.java" afterPath="$PROJECT_DIR$/src/com/smartcontroller/util/StringUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/a850f1c6-ed76-3d66-9dba-253148cff93b" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/a850f1c6-ed76-3d66-9dba-253148cff93b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/central-showOnStartup-true" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/central-showOnStartup-true" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/d3d6976f-4f1c-3fc7-b30b-553400e41b0f" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/d3d6976f-4f1c-3fc7-b30b-553400e41b0f" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2015-03-28.txt" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2015-03-28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/login_layout.xml" afterPath="$PROJECT_DIR$/res/layout/login_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SmartControllerServer/2015/3/13/refactorings.history" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SmartControllerServer/2015/3/13/refactorings.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SmartControllerServer/2015/3/13/refactorings.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SmartControllerServer/2015/3/13/refactorings.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/version.ini" afterPath="$PROJECT_DIR$/.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/vpe-editor-visual-vpe" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.usage/events/vpe-editor-visual-vpe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SmartControllerServer/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SmartControllerServer/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SmartControllerServer/WebContent/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/SmartControllerServer/WebContent/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SmartController.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +304,135 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="SmartController" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LoginDB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/LoginDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="800">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UrlParmUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/UrlParmUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="450">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SmartControllerServer/WebContent/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1150">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SmartControllerServer/WebContent/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="425">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Learn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/Learn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1125" max-vertical-offset="1725">
+              <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Predict.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/Predict.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="1750">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RecordData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/RecordData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="875" max-vertical-offset="1550">
+              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BloothServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BloothServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="2625">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WifiCenter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/wifi/WifiCenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="350" max-vertical-offset="950">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UDPServer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/wifi/UDPServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.12842466" vertical-offset="450" max-vertical-offset="1075">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BluetoothActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/smartcontroller/core/Learn.java" />
+        <option value="$PROJECT_DIR$/SmartControllerServer/src/com/sc/dao/UpdateActions.java" />
+        <option value="$PROJECT_DIR$/SmartControllerServer/src/com/sc/dao/UpdatePrnn.java" />
+        <option value="$PROJECT_DIR$/src/com/smartcontroller/core/RecordData.java" />
+        <option value="$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BloothServer.java" />
+        <option value="$PROJECT_DIR$/src/com/smartcontroller/wifi/WifiCenter.java" />
+        <option value="$PROJECT_DIR$/src/com/smartcontroller/wifi/UDPServer.java" />
+      </list>
+    </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -57,6 +468,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -75,10 +487,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SmartController" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SmartController" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcontroller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,8 +521,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.7.0_71" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="android.dex.compiler" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.47">
+  <component name="RunManager" selected="Android Application.SmartController">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -134,23 +573,45 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -196,6 +657,135 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="Tomcat 7.0.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.47" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="SmartController:war exploded">
@@ -217,8 +807,29 @@
         </option>
       </method>
     </configuration>
-    <list size="1">
+    <configuration default="false" name="SmartController" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="SmartController" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0.47" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.SmartController" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -232,44 +843,51 @@
       <option name="number" value="Default" />
       <updated>1427526991838</updated>
       <workItem from="1427526995398" duration="32000" />
+      <workItem from="1427554097860" duration="141000" />
+      <workItem from="1441978034959" duration="1031000" />
+      <workItem from="1442044912990" duration="271000" />
+      <workItem from="1442054273300" duration="600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32000" />
+    <option name="totallyTimeSpent" value="2075000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -291,5 +909,420 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/LoginDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="800">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/UrlParmUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="450">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="425">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/Learn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1125" max-vertical-offset="1725">
+          <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/Predict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="1750">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/RecordData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="875" max-vertical-offset="1550">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BloothServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="2625">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/wifi/WifiCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="350" max-vertical-offset="950">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/wifi/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1075">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/servlet/UpdatePrnnServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="725">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/test/URLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="605" max-vertical-offset="1150">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1125">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/LoginDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="800">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/UrlParmUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="450">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="425">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/Learn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1625">
+          <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/Predict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="1650">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/RecordData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1475">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid4204.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="1725" max-vertical-offset="3175">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40801457" vertical-offset="1" max-vertical-offset="550">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BluetoothActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1754386" vertical-offset="1075" max-vertical-offset="4325">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/dao/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.32" vertical-offset="267" max-vertical-offset="825">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/dao/UpdateActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.2" vertical-offset="905" max-vertical-offset="1450">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/dao/UpdatePrnn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.8" vertical-offset="80" max-vertical-offset="1000">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.0" vertical-offset="0" max-vertical-offset="800">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/servlet/UpdataActionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.32" vertical-offset="267" max-vertical-offset="825">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/servlet/UpdatePrnnServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="725">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/test/URLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="605" max-vertical-offset="1150">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1125">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/LoginDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="800">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/util/UrlParmUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="450">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartControllerServer/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="425">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/Learn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1625">
+          <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/Predict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="1650">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/core/RecordData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="650" max-vertical-offset="1475">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BloothServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="2625">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/wifi/WifiCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smartcontroller/wifi/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.12842466" vertical-offset="450" max-vertical-offset="1075">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SmartController:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SmartControllerServer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

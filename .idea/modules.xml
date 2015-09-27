@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servers/Servers.iml" filepath="$PROJECT_DIR$/Servers/Servers.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartController.iml" filepath="$PROJECT_DIR$/SmartController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartControllerServer/SmartControllerServer.iml" filepath="$PROJECT_DIR$/SmartControllerServer/SmartControllerServer.iml" />
     </modules>
   </component>
 </project>

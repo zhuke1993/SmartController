@@ -22,10 +22,13 @@ public class LoginServlet extends HttpServlet {
 			throws ServletException, IOException {
 		String user_id = req.getParameter("phone");
 		String user_pwd = req.getParameter("pwd");
-		String r = LoginDB.login(user_id, user_pwd);
-		PrintWriter writer = resp.getWriter();
-		writer.print(r);
-		writer.flush();
-		writer.close();
+		if (user_id != null && user_pwd != null) {
+			String r = LoginDB.login(user_id, user_pwd);
+			PrintWriter writer = resp.getWriter();
+			writer.print(r);
+			writer.flush();
+			writer.close();
+		}
+
 	}
 }

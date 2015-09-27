@@ -16,6 +16,10 @@ public class Conf {
 	 */
 	public static String uri="http://zk929184318.eicp.net:8080/SmartControllerServer";
 
+	/**
+	 * 用来保存登陆成功的user_id
+	 */
+	public static String lg_succ_user_id = null;
 
 	/**
 	 * 应用的主文件夹目录

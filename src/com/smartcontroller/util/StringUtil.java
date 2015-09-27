@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 public class StringUtil {
 
 	public static boolean isa2z(String s) {
-		if(s.equals("")||s.equals(" ")){
+		if (s.equals("") || s.equals(" ")) {
 			return false;
 		}
 		if (s != null) {
@@ -22,6 +22,5 @@ public class StringUtil {
 		return false;
 
 	}
-
 
 }

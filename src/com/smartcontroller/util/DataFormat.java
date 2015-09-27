@@ -38,7 +38,6 @@ public class DataFormat {
 			// 按照数据格式进行个格式化处理
 			for (int i = 0; i < len; i++) {
 				double temp = Double.parseDouble(str.nextToken());
-				
 				//将数据进行归一化处理
 				temp = (temp + 32768) / 32768 - 1;
 				d[i] = temp;

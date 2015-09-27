@@ -44,11 +44,7 @@ public class RecordData {
 						}
 						// 将新接收到的数据存入到temp数组的第temp_state行
 						Conf.temp[Conf.temp_state] = d;
-						//System.out.println("数据归一化存入temp数组中:");
-						//for (double i : d) {
-						//	System.out.print(i + "  ");
-						//}
-						//System.out.println("\n");
+						
 						// 线程休眠指定时间后再次发送数据r，接收手环数据，休眠值从配置类中读取
 						Thread.sleep(Conf.actionTime);
 					} catch (InterruptedException e) {

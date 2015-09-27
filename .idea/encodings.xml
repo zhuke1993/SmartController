@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/dao/UpdateActions.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/SmartControllerServer/src/com/sc/dao/UpdatePrnn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BloothServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/smartcontroller/bluetooth/BluetoothActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/smartcontroller/core/Learn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/smartcontroller/core/RecordData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/smartcontroller/wifi/UDPServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/smartcontroller/wifi/WifiCenter.java" charset="GBK" />
+  </component>
 </project>

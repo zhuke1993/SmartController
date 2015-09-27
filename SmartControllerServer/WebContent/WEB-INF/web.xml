@@ -20,4 +20,22 @@
 		<servlet-name>login</servlet-name>
 		<url-pattern>/login</url-pattern>
 	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>updateActions</servlet-name>
+		<servlet-class>com.sc.servlet.UpdataActionServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>updateActions</servlet-name>
+		<url-pattern>/updateActions</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>updatePrnn</servlet-name>
+		<servlet-class>com.sc.servlet.UpdatePrnnServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>updatePrnn</servlet-name>
+		<url-pattern>/updatePrnn</url-pattern>
+	</servlet-mapping>
+	
 </web-app>
